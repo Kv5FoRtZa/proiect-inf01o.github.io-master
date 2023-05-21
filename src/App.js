@@ -32,7 +32,7 @@ const App = () => {
           <li>Zamfir Irina</li> 
         </div>
         <figure class="hover-rotate">
-          <img src="https://i.redd.it/iaet8r90smya1.jpg" height="200" width="240"/></figure>
+          <img src="https://i.redd.it/jdmuzf6loqya1.jpg" height="200" width="240"/></figure>
       <div className="App" class="center">
         <div className='containerProiect'>
           <DetaliiProiect />
